@@ -1,0 +1,23 @@
+{
+  "name": "sistema-desktop",
+  "version": "1.0.0",
+  "description": "Desenvolvimento de um sistema desktop para gestão de ordem de serviços de uma assistência técnica de computadores e notebooks.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizDamasAmorim/sistema-desktop.git"
+  },
+  "author": "Luiz Damas Amorim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuizDamasAmorim/sistema-desktop/issues"
+  },
+  "homepage": "https://github.com/LuizDamasAmorim/sistema-desktop#readme",
+  "devDependencies": {
+    "electron": "^34.2.0"
+  }
+}
